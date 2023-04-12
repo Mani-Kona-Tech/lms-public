@@ -1,4 +1,4 @@
-# Docker file for react app created using vite
+# Docker file for react app created using vite just update test 
 FROM node:latest as build
 # Create app directory
 WORKDIR /app
